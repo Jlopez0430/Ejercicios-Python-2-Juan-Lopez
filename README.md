@@ -1,6 +1,12 @@
+Procesamiento de Datos a Gran Escala
+Juan Andres Lopez Escalante
+profesor:
+JOHN JAIRO CORREDOR FRANCO
+Fecha:28/01/2025
+
+
 Proyecto: Introducción a Python
 Este repositorio contiene una colección de notebooks diseñados para enseñar los conceptos fundamentales de Python. Está organizado en módulos, cada uno centrado en un tema específico, con ejemplos prácticos y explicaciones detalladas.
-
 Tabla de Contenido:
 -Descripción
 -Requisitos Previos
